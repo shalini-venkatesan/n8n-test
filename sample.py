@@ -7,5 +7,5 @@ def value(n):
   else:
     print("zero down")
 
-n = 20
-value(n)
+v = 20
+value(v)
